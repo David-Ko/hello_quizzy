@@ -33,12 +33,12 @@ gem 'bcrypt', '~> 3.1.7'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'bootsnap', '>= 1.1.0', require: false
 gem 'faker'
 gem 'cowsay'
 gem 'cancancan'
-gem 'bootstrap'
+gem 'bootstrap', '~> 4.1.3'
 gem 'jquery-rails'
+gem 'sprockets-rails'
 gem "selectize-rails"
 gem 'delayed_job_active_record'
 gem 'delayed_job_web'
