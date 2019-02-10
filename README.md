@@ -1,24 +1,15 @@
-# README
+# Hello Quizzy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello Quizzy is a web-based educational tool tailored for children between age 5 and 12.  Hello Quizzy is visually attractive for children and the content is age-appropriate, fun and encouraging!
 
-Things you may want to cover:
+# Technical Summary
 
-* Ruby version
+Some of the technologies we use are:
 
-* System dependencies
+* Ruby on Rails.
 
-* Configuration
+* PostgresSQL
 
-* Database creation
+* Object-Oriented Programming
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
